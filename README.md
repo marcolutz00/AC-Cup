@@ -3,6 +3,8 @@
 Road to 1.0
 Submission Deadline: Monday, January 29, 8 am
 
+Alle notwendigen Bibliotheken sind in der requirements.txt Datei enthalten. -> `pip install -r requirements.txt`
+
 Plan:
 1. Datenbereinigung: 
     - ⬜️ Daten auslesen
