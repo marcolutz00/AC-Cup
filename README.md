@@ -38,3 +38,9 @@ Like=0).
 For reviews with a TestSetId and for which you are not given the Like (the “private test set”), you must make
 predictions that will form your submission. See the “submission_template.csv” for details about the required
 format. Your project will be evaluated and graded based on these predictions.
+
+Zu predicten:
+For reviews with a TestSetId and for which you are not given the Like (the “private test set”), you must make
+predictions that will form your submission. See the “submission_template.csv” for details about the required
+format. Your project will be evaluated and graded based on these predictions.
+
