@@ -44,3 +44,20 @@ For reviews with a TestSetId and for which you are not given the Like (the “pr
 predictions that will form your submission. See the “submission_template.csv” for details about the required
 format. Your project will be evaluated and graded based on these predictions.
 
+
+
+Aktuelle Modelle Marco - Best Scores:
+- Linear Regression (19.01.2024) - WLS (Weighted Least Squares):
+True Positives:  956
+True Negatives:  5121
+False Positives:  2977
+False Negatives:  252
+BAC:  0.7118845467526116
+
+- Logistic Regression (19.01.2024)
+True Positives:  758
+True Negatives:  6076
+False Positives:  2022
+False Negatives:  450
+BAC:  0.6888960809553173
+
