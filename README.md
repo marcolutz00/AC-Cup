@@ -61,3 +61,16 @@ False Positives:  2022
 False Negatives:  450
 BAC:  0.6888960809553173
 
+- Naive Bayes (20.01.2024)
+True Positives:  762
+True Negatives:  5743
+False Positives:  2355
+False Negatives:  446
+BAC:  0.6699910778395123
+
+- Random Forest (20.01.2024)
+True Positives:  2173
+True Negatives:  22539
+False Positives:  1646
+False Negatives:  1560
+BAC:  0.7570234155294921
