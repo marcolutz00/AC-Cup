@@ -62,15 +62,22 @@ False Negatives:  450
 BAC:  0.6888960809553173
 
 - Naive Bayes (20.01.2024)
-True Positives:  762
-True Negatives:  5743
-False Positives:  2355
-False Negatives:  446
-BAC:  0.6699910778395123
+Training Set Evaluation:
+BAC:  0.7118043742295354
+Test Set Evaluation:
+BAC:  0.6811664147045524
 
 - Random Forest (20.01.2024)
-True Positives:  2173
-True Negatives:  22539
-False Positives:  1646
-False Negatives:  1560
-BAC:  0.7570234155294921
+Bias vs Variance - Tradeoff: Aktuell viel Variance, wenig Bias
+Training Set Evaluation:
+BAC:  0.9724988439373534
+Test Set Evaluation:
+BAC:  0.7807539558700151
+
+- Stacking (20.01.2024)
+Kombination der Learner: Logistic Regression (Meta-Learner), Random Forest, Naive Bayes, Ridge Regression
+Bias vs Variance - Tradeoff: Aktuell viel Variance, wenig Bias
+Training Set Evaluation:
+BAC:  0.9599874310813525
+Test Set Evaluation:
+BAC:  0.7789457048506785
