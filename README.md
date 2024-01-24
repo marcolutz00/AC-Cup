@@ -47,30 +47,30 @@ format. Your project will be evaluated and graded based on these predictions.
 
 Aktuelle Modelle Marco - Best Scores:
 
-- Linear Regression (19.01.2024) - WLS (Weighted Least Squares):
-  True Positives: 956
-  True Negatives: 5121
-  False Positives: 2977
-  False Negatives: 252
-  BAC: 0.7118845467526116
+- Linear Regression (24.01.2024) - WLS (Weighted Least Squares):
+  Training Set Evaluation:
+  BAC:  0.734773460306756
+  Test Set Evaluation:
+  BAC:  0.73412822666554
 
 - Logistic Regression (22.01.2024)
   Training Set Evaluation:
-  BAC train: 0.723029537197915
+  BAC:  0.741937819196546
   Test Set Evaluation:
-  BAC: 0.716396373112791
+  BAC:  0.7337090769926591
 
-- Naive Bayes (22.01.2024)
+- Naive Bayes (22.01.2024) - Falle
+= Müll
   Training Set Evaluation:
   BAC: 0.937834106029238
   Test Set Evaluation:
   BAC: 0.9335271766943793
 
-- Random Forest (22.01.2024)
+- Random Forest (24.01.2024)
   Training Set Evaluation:
-  BAC: 0.9677446954140999
+  BAC:  0.8771586900437003
   Test Set Evaluation:
-  BAC: 0.7814097179768822
+  BAC:  0.8267271700107521
 
 - Stacking (20.01.2024)
   Kombination der Learner: Logistic Regression (Meta-Learner), Random Forest, Naive Bayes, Ridge Regression
